@@ -5,7 +5,7 @@ import Share from "react-native-share"
 import { captureRef } from "react-native-view-shot"
 
 import LogoDarkMode from "@app/assets/logo/app-logo-dark.svg"
-import LogoLightMode from "@app/assets/logo/blink-logo-light.svg"
+import LogoLightMode from "@app/assets/logo/logo-light.svg"
 import { Circle } from "@app/components/circle"
 import { getInviteLink } from "@app/config/appinfo"
 import { useCirclesQuery, WelcomeProfile } from "@app/graphql/generated"

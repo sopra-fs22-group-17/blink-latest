@@ -6,7 +6,7 @@ const sharp = require("sharp")
 const svgFilenames = [
   "./app/assets/icons-redesign/lightning.svg",
   "./app/assets/icons-redesign/bitcoin.svg",
-  "./app/assets/logo/blink-logo-icon.svg",
+  "./app/assets/logo/logo-icon.svg",
 ]
 
 const scale = 5 // scale factor for the output image

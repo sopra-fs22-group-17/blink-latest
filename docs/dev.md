@@ -1,5 +1,5 @@
 # Development Environment
-Developing the Blink  Mobile app for the Galoy Backend can be done in a variety of ways but the officially supported method is via [Nix Flake](../flake.nix) at the root of the repository.
+Developing the AfriBit  Mobile app for the Galoy Backend can be done in a variety of ways but the officially supported method is via [Nix Flake](../flake.nix) at the root of the repository.
 
 ## Prerequisites
 

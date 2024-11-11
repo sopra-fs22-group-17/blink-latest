@@ -12,7 +12,7 @@ import QRCode from "react-native-qrcode-svg"
 import Icon from "react-native-vector-icons/Ionicons"
 
 import { gql } from "@apollo/client"
-import Logo from "@app/assets/logo/blink-logo-icon.png"
+import Logo from "@app/assets/logo/logo-icon.png"
 import { getInviteLink } from "@app/config/appinfo"
 import { useInviteQuery } from "@app/graphql/generated"
 import { useI18nContext } from "@app/i18n/i18n-react"

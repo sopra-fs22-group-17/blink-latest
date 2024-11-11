@@ -4,7 +4,7 @@ import { ScrollView } from "react-native-gesture-handler"
 
 import { gql } from "@apollo/client"
 import LogoDarkMode from "@app/assets/logo/app-logo-dark.svg"
-import LogoLightMode from "@app/assets/logo/blink-logo-light.svg"
+import LogoLightMode from "@app/assets/logo/logo-light.svg"
 import { Circle, CircleRef } from "@app/components/circle"
 import { IntroducingCirclesModal } from "@app/components/introducing-circles-modal"
 import { MayChallengeCard } from "@app/components/may-challenge"

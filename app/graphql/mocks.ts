@@ -394,7 +394,7 @@ const mocks = [
       variables: {
         input: {
           walletId: "f091c102-6277-4cc6-8d81-87ebf6aaad1b",
-          memo: "Pay to Blink Wallet User",
+          memo: "Pay to AfriBit Wallet User",
         },
       },
     },
@@ -418,7 +418,7 @@ const mocks = [
       variables: {
         input: {
           walletId: "f79792e3-282b-45d4-85d5-7486d020def5",
-          memo: "Pay to Blink Wallet User",
+          memo: "Pay to AfriBit Wallet User",
         },
       },
     },

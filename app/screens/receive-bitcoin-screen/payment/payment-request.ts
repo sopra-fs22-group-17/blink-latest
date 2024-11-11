@@ -35,7 +35,7 @@ export const createPaymentRequest = (
     let info: PaymentRequestInformation | undefined
 
     // Default memo
-    if (!pr.memo) pr.memo = "Pay to Blink Wallet User"
+    if (!pr.memo) pr.memo = "Pay to AfriBit Wallet User"
 
     // On Chain BTC
     if (pr.type === Invoice.OnChain) {
